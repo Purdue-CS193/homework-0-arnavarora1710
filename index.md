@@ -26,6 +26,11 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+Example of a bulleted list:-
+  Cool stuff about CS 193:
+  - Taught by super awesome TA's
+  - MEMES
+  - FUN HOMEWORK!
 
 For more details visit [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
